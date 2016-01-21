@@ -10,8 +10,8 @@ body{
 }
 
 .column{
-  border-top:solid 2px blue;
-  border-bottom:solid 2px blue;
+  border-top:solid 2px #639b28;
+  border-bottom:solid 2px #639b28;
   height:500px;
   width:100px;
   display:inline-block;
@@ -21,16 +21,16 @@ body{
 }
 
 .first{
-  border-left:solid 2px blue;
+  border-left:solid 2px #639b28;
   margin-left:125px;
 }
 
 .last{
-  border-right:solid 2px blue;
+  border-right:solid 2px #639b28;
 }
 
 .block{
-  border:solid 2px blue;
+  border:solid 2px #639b28;
   border-radius:500px;
   height:70px;
   width:70px;
@@ -40,7 +40,7 @@ body{
 }
 
 .column:hover{
-  background-color:blue;
+  background-color:#639b28;
   transition:linear 0.3s;
 }
 
