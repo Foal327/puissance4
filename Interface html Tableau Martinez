@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Puissance 4</title>
+  </head>
+  <body>
+    <table>
+      <div id='ligne1'>
+        <tr>
+          <td id="col1"></td>
+          <td id="col2"></td>
+          <td id="col3"></td>
+          <td id="col4"></td>
+          <td id="col5"></td>
+          <td id="col6"></td>
+          <td id="col7"></td>
+        </tr>
+      </div>
+      <div id='ligne2'>
+        <tr>
+          <td id="col1"></td>
+          <td id="col2"></td>
+          <td id="col3"></td>
+          <td id="col4"></td>
+          <td id="col5"></td>
+          <td id="col6"></td>
+          <td id="col7"></td>
+        </tr>
+      </div>
+      <div id='ligne3'>
+        <tr>
+          <td id="col1"></td>
+          <td id="col2"></td>
+          <td id="col3"></td>
+          <td id="col4"></td>
+          <td id="col5"></td>
+          <td id="col6"></td>
+          <td id="col7"></td>
+        </tr>
+      </div>
+      <div id='ligne4'>
+        <tr>
+          <td id="col1"></td>
+          <td id="col2"></td>
+          <td id="col3"></td>
+          <td id="col4"></td>
+          <td id="col5"></td>
+          <td id="col6"></td>
+          <td id="col7"></td>
+        </tr>
+      </div>
+      <div id='ligne5'>
+        <tr>
+          <td id="col1"></td>
+          <td id="col2"></td>
+          <td id="col3"></td>
+          <td id="col4"></td>
+          <td id="col5"></td>
+          <td id="col6"></td>
+          <td id="col7"></td>
+        </tr>
+      </div>
+      <div id='ligne6'>
+        <tr>
+          <td id="col1"></td>
+          <td id="col2"></td>
+          <td id="col3"></td>
+          <td id="col4"></td>
+          <td id="col5"></td>
+          <td id="col6"></td>
+          <td id="col7"></td>
+        </tr>
+      </div>
+    </table>
+  </body>
+</html>
