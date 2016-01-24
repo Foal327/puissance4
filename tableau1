@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Puissance 4</title>
+  <link rel="stylesheet" href="styles/style.css" />
+</head>
+
+<body>
+  <div class="container">
+    <table cellspacing="0">
+      <tr class="column">
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+      </tr>
+      <tr class="column">
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+      </tr>
+      <tr class="column">
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+      </tr>
+      <tr class="column">
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+      </tr>
+      <tr class="column">
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+      </tr>
+      <tr class="column">
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+      </tr>
+      <tr class="column">
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+        <td class="block"></td>
+      </tr>
+    </table>
+  </div>
+  <script src="../projet/scripts/main.js"></script>
+</body>
+
+</html>
