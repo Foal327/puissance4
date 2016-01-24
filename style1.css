@@ -1,0 +1,46 @@
+body{
+  height:auto;
+  background-color:#EEE;
+}
+
+.container{
+  width:960px;
+  margin:auto;
+  background-color:white;
+}
+
+table {
+  border:solid 2px #639b28;
+
+}
+.column{
+  height:540px;
+  width:100px;
+  display:inline-block;
+  
+}
+
+.block{
+  border:solid 2px #639b28;
+  border-radius:500px;
+  height:70px;
+  width:70px;
+  margin-left: 12px;
+  margin-top: 12px;
+  display:inline-block;
+  background-color:white;
+}
+
+.column:hover{
+  background-color:#639b28;
+  transition:linear 0.3s;
+}
+
+.button{
+  display:inline-block;
+  text-align:center;
+}
+
+input{
+  margin-top:15px;
+}
