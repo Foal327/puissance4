@@ -36,11 +36,10 @@ table {
   transition:linear 0.3s;
 }
 
-.button{
-  display:inline-block;
-  text-align:center;
+.p1 {
+  background-color: red;
 }
 
-input{
-  margin-top:15px;
+.p2 {
+  background-color: yellow;
 }
